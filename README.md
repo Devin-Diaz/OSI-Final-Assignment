@@ -21,7 +21,7 @@ The system supports basic file operations including creating, reading, writing, 
 * Implemented overall system coordination and operation selection logic
 * Assisted with debugging, validation, and overall program structure
 
-### Klaudio Vulka
+### Klaudio Vulka 
 * Designed the core filesystem data structures
 * Implemented the primary global data fields
 * Developed the `formatDisk()` functionality
